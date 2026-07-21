@@ -11,7 +11,7 @@
    EX : Instead of using right click --> mkdir project.This which creates a new file 
 # Commands
 
-  1. pwd = print working directory
+ ## 1. pwd = print working directory
     - shows your current directory
   2. ls = list files 
     - shows everything in the directory/file
