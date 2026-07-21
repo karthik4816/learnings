@@ -1,0 +1,6 @@
+# Instal&Setup
+
+- Creating git hub A/C
+- Installing git
+- SSH key setup
+- Creating a Repository and using README.md
