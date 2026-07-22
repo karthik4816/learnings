@@ -22,7 +22,7 @@ A branch is an independent line of development.
     - git branch
 
  # 2. Creating new branch 
-    - git branch 
+    - git branch <name>
 
  # 3. Switch branch
     - #git switch <name>   
