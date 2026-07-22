@@ -19,22 +19,17 @@ A branch is an independent line of development.
 # Commands Used in Branching
 
 # 1. To check the current branch
-   
-   - git branch
+    - git branch
 
  # 2. Creating new branch 
-
-   - git branch <name>
+    - git branch 
 
  # 3. Switch branch
-
-   - git switch <name>   
+    - #git switch <name>   
 
 #  4. Merge branch
-
-   - git merge <name>
+    - git merge <name>
  
  # 5. Delete branch
-
-   - git branch -d <name>
+    - git branch -d <name>
       
