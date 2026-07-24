@@ -13,8 +13,7 @@ A remote repository is a Git repository hosted on GitHub or another server. It a
 Downloads a complete copy of a remote repository to your local computer.
 
 Example:
-
--- git clone <repository-url>
+-- git clone < repository-url>
 
 ## git pull
 
