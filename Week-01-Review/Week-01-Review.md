@@ -1,12 +1,12 @@
-## Week 01 Review – Foundation
+# Week 01 Review – Foundation
 
-# Objective
+## Objective
 
  - In this repo you see the 1 week learnings of my 9-months preperation
 
-## Topics Reviewed
+# Topics Reviewed
 
-# Day 1 – Git & GitHub Setup
+## Day 1 – Git & GitHub Setup
 
  - git installed 
  - git hub A/C created
@@ -14,7 +14,7 @@
  - sharied git hub link to the mentor
  - generated SSH keys
 
-# Day 2 – Linux Terminal Survival
+## Day 2 – Linux Terminal Survival
  
   practiced using linux terminals
 
@@ -28,7 +28,7 @@
   - pwd
   - clear
   
-# Day 3 – Git Branching
+## Day 3 – Git Branching
  
   reviewed :
 
@@ -48,7 +48,7 @@
   - git merge "branch name"
   - git branch -d "branch name"
 
-# Day 4 – Remote Repository, Clone & Pull
+## Day 4 – Remote Repository, Clone & Pull
 
   reviewed : 
   
@@ -65,7 +65,7 @@
   - git push
   - git clone "repositury URL"
 
-# Day 5 – Pull Request
+## Day 5 – Pull Request
  
   reviewed:
   
@@ -81,7 +81,7 @@
   - git branch -c "branch name"
   - git push 
 
-# Day6 – AI Practice  
+## Day6 – AI Practice  
   
   reviewed:
   
