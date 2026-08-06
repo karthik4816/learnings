@@ -1,3 +1,8 @@
+#kilometers to nautical miles
+kilometers = float(input("enter: "))
+nautical_miles = kilometers*0.539957
+print('N_mies: ',nautical_miles)
+
 #celsius to fahrenheit
 celsius = float(input("celsius: "))
 fahrenheit = celsius*9/5+32
