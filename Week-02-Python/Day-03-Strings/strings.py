@@ -38,7 +38,7 @@ print(name * 3)
 #Membership
 print("ka" in name)
 print("eya" in name)
-
+ 
 #f-Strings
 print(f"welcome {name} who {city}")
 
