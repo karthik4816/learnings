@@ -1,9 +1,9 @@
 password = input("enter password: ")
 
-has_upper = False
-has_lower = False
-has_digit = False
-has_special = False
+# as_upper = False
+# has_lower = False
+# has_digit = False
+# has_special = False
 
 special_chars = "@#$%&!"
 print("length",len(password))
