@@ -1,5 +1,3 @@
-# Week 03 – Python Collections
-
 ## Day 01 – Lists and Tuples
 
 ### Objective
@@ -296,27 +294,3 @@ Output:
 ```
 
 ---
-
-# 7. Practice Tasks
-
-1. Create a list of five numbers and print the first and last elements.
-2. Practice slicing a list in different ways.
-3. Use `append()`, `insert()`, `remove()`, and `pop()`.
-4. Create a tuple of five numbers and access its elements.
-5. Create a list containing numbers from 1 to 10 using list comprehension.
-6. Create a list containing squares from 1 to 10.
-7. Create a list containing only even numbers from 1 to 20.
-8. Create a list containing only odd numbers from 1 to 20.
-
----
-
-# Key Takeaways
-
-* Lists are ordered and mutable.
-* Tuples are ordered and immutable.
-* List indexing starts from `0`.
-* Negative indexing starts from `-1`.
-* Slicing extracts a portion of a collection.
-* Lists have useful methods such as `append()`, `insert()`, `remove()`, `pop()`, `sort()`, and `reverse()`.
-* List comprehensions provide a concise way to create lists.
-* Tuples are useful when the data should not be changed.
